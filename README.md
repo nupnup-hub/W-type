@@ -2,7 +2,7 @@
 
 2D shooting game developed by Unity engine
 
-![Main](https://github.com/nupnup-hub/W-type/assets/59456231/3cc3f0d1-8dc5-4ebd-bea4-c3ab3a555b4f)
-![PlayImage00](https://github.com/nupnup-hub/W-type/assets/59456231/95b2fcf6-9c41-4d69-8372-9e27cb942120)
-![PlayImage01](https://github.com/nupnup-hub/W-type/assets/59456231/073552f6-05dd-4c18-8ef0-39a6154b5d20)
-![PlayImage02](https://github.com/nupnup-hub/W-type/assets/59456231/35487cbd-16be-42cd-8ebc-7b71654a34f9)
+![Main](https://github.com/nupnup-hub/W-type/assets/59456231/6dae746f-33f5-42ef-a884-73c9a36f1c53)
+![Play00](https://github.com/nupnup-hub/W-type/assets/59456231/56750902-0173-4bba-a359-4a7099e27fbb)
+![Play03](https://github.com/nupnup-hub/W-type/assets/59456231/6aba2ec6-421b-49cf-9fe7-59ca77faa10a)
+![Play01](https://github.com/nupnup-hub/W-type/assets/59456231/5d5415cb-ba0e-4326-ba47-3fc865d80d3f) 
